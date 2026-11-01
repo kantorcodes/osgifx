@@ -68,7 +68,7 @@ Traditional SSE uses separate endpoints for the stream (`/sse`) and messages (`/
 
 The OSGi.fx MCP Server actively negotiates the Model Context Protocol version during initialization.
 
-*   **Latest Supported Version:** `2025-11-25` (Full support for the latest MCP specification).
+*   **Latest Supported Version:** `2025-11-25` (latest supported by OSGi.fx; the [current MCP specification](https://modelcontextprotocol.io/specification/2026-07-28) is `2026-07-28`).
 *   **Widely Supported Version:** `2025-03-26` (Ensures compatibility with most modern AI clients).
 *   **Backward Compatibility:** `2024-11-05` is fully supported for older clients.
 
